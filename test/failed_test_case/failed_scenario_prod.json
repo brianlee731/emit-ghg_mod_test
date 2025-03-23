@@ -1,6 +1,6 @@
 {
     "stage_in": {
-      "stac_json": "",
+      "stac_json": "https://raw.githubusercontent.com/brianlee731/emit-ghg_mod_test/refs/heads/master/test/failed_test_case/failed_catalog.json",
       "downloading_roles": "",
       "downloading_keys": "data, data1, data2",
       "download_type": "DAAC",
