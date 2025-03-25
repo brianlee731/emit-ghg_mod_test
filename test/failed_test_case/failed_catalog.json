@@ -199,7 +199,7 @@
           "data3": {
             "href": "s3://emit-dev-unity-data/emit_ghg_bucket/dataset_ch4_full.hdf5",
             "title": "Download dataset_ch4_full.hdf5"
-          },
+          }
         },
         "collection": "C2408750690-LPCLOUD"
       }
