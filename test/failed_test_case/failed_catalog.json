@@ -187,11 +187,7 @@
           "data": {
             "href": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/EMITL2ARFL.001/EMIT_L2A_RFL_001_20230404T085908_2309406_041/EMIT_L2A_RFL_001_20230404T085908_2309406_041.nc",
             "title": "Download EMIT_L2A_RFL_001_20230404T085908_2309406_041.nc"
-          },
-          "data4": {
-            "href": "s3://emit-dev-unity-data/emit_ghg_bucket/dataset_ch4_full.hdf5",
-            "title": "Download dataset_ch4_full.hdf5"
-          },  
+          },    
           "data1": {
             "href": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/EMITL2ARFL.001/EMIT_L2A_RFL_001_20230404T085908_2309406_041/EMIT_L2A_MASK_001_20230404T085908_2309406_041.nc",
             "title": "Download EMIT_L2A_MASK_001_20230404T085908_2309406_041.nc"
@@ -199,7 +195,11 @@
           "data2": {
             "href": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/EMITL2ARFL.001/EMIT_L2A_RFL_001_20230404T085908_2309406_041/EMIT_L2A_RFLUNCERT_001_20230404T085908_2309406_041.nc",
             "title": "Download EMIT_L2A_RFLUNCERT_001_20230404T085908_2309406_041.nc"
-          }
+          },
+          "data3": {
+            "href": "s3://emit-dev-unity-data/emit_ghg_bucket/dataset_ch4_full.hdf5",
+            "title": "Download dataset_ch4_full.hdf5"
+          },
         },
         "collection": "C2408750690-LPCLOUD"
       }
