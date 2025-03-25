@@ -2,7 +2,7 @@
     "stage_in": {
       "stac_json": "https://raw.githubusercontent.com/brianlee731/emit-ghg_mod_test/refs/heads/master/test/failed_test_case/failed_catalog.json",
       "downloading_roles": "",
-      "downloading_keys": "data, data1, data2",
+      "downloading_keys": "data, data1, data2, data4",
       "download_type": "DAAC",
       "edl_username": "/sps/processing/workflows/edl_username",
       "edl_password_type": "PARAM_STORE",
